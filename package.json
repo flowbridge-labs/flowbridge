@@ -1,5 +1,5 @@
 {
-	"name": "provance-client-v2",
+	"name": "flowbridge",
 	"private": true,
 	"version": "0.0.0",
 	"packageManager": "pnpm@10.6.5",
